@@ -1,0 +1,138 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ATLAS_HomeScreen
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: cf3e6579f80b1384183027a31aac320f, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 88a4eec0666284141b7db43b8ea9a5e8: 21300000
+    - 39ffbf6129cf9684faa3c8edecd21616: 21300000
+    - 04a13e81a1156d24bbf031bd2d5d579f: 21300000
+    - 2f099591818b9d44fa967cbec828fc8f: 21300000
+    - dd56a952edf251e4c8289898e1af60ad: 21300000
+    - 2b8e71923251500409a43459d289d0e5: 21300000
+    - 3ad104f2f334a5443bbc732eb4534029: 21300000
+    - d9032e43be982174ca856f2b6cf711ea: 21300000
+    - 201c7c530274dbe44956f5cb884fec58: 21300000
+    - 333921837a5c8a54a85ec1c7fea91096: 21300000
+    - d7782a93711676a4891461034fd136d4: 21300000
+    - 0c10ed7475e491b42b4ab305028d7ad3: 21300000
+    - 01927fc4780745346a173341b1c0805f: 21300000
+    - 22caac651c4c9e447a1a0f511429247b: 21300000
+    - 1d76bb16ba9270d4ba98c395cdd94f43: 21300000
+    - 85d02e267fdb1734cb58b46b95b904e7: 21300000
+    - 847584e8fbdf0d940b43a113676fd73b: 21300000
+    - b7287a090a0b896479175cbd5d637266: 21300000
+    - eada9a594ec0af4438349454e065d478: 21300000
+    - 5600c3891bf5d0142899b8ddce380986: 21300000
+    - 960bf17ac19718042a9045038ca08364: 21300000
+    - b4c9ee7a523bf604d8941fb698fae876: 21300000
+    - 69ef29aab664a8c48997c6fe5113c23d: 21300000
+    - e109bcca397aa0941b4ae37216987eb1: 21300000
+    - f84c34bc58b675648abd3d0fb887965a: 21300000
+    - 58af845d3f1e9c24c97e7fda90f15f93: 21300000
+    - 35ff8a6de91d36b4d97f56905d5a80f8: 21300000
+    - 3df7f57e87a4ea74fbd1891eebe6987b: 21300000
+    - 559d53ae5b0ca404583057f2b9cb7e93: 21300000
+    - e5e952bf1aa32e14eb117cdbd0a3dfdd: 21300000
+    - 6fdc15cfd20a2cc46a1c89d35ec3fb2f: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 88a4eec0666284141b7db43b8ea9a5e8, type: 3}
+  - {fileID: 21300000, guid: 39ffbf6129cf9684faa3c8edecd21616, type: 3}
+  - {fileID: 21300000, guid: 04a13e81a1156d24bbf031bd2d5d579f, type: 3}
+  - {fileID: 21300000, guid: 2f099591818b9d44fa967cbec828fc8f, type: 3}
+  - {fileID: 21300000, guid: dd56a952edf251e4c8289898e1af60ad, type: 3}
+  - {fileID: 21300000, guid: 2b8e71923251500409a43459d289d0e5, type: 3}
+  - {fileID: 21300000, guid: 3ad104f2f334a5443bbc732eb4534029, type: 3}
+  - {fileID: 21300000, guid: d9032e43be982174ca856f2b6cf711ea, type: 3}
+  - {fileID: 21300000, guid: 201c7c530274dbe44956f5cb884fec58, type: 3}
+  - {fileID: 21300000, guid: 333921837a5c8a54a85ec1c7fea91096, type: 3}
+  - {fileID: 21300000, guid: d7782a93711676a4891461034fd136d4, type: 3}
+  - {fileID: 21300000, guid: 0c10ed7475e491b42b4ab305028d7ad3, type: 3}
+  - {fileID: 21300000, guid: 01927fc4780745346a173341b1c0805f, type: 3}
+  - {fileID: 21300000, guid: 22caac651c4c9e447a1a0f511429247b, type: 3}
+  - {fileID: 21300000, guid: 1d76bb16ba9270d4ba98c395cdd94f43, type: 3}
+  - {fileID: 21300000, guid: 85d02e267fdb1734cb58b46b95b904e7, type: 3}
+  - {fileID: 21300000, guid: 847584e8fbdf0d940b43a113676fd73b, type: 3}
+  - {fileID: 21300000, guid: b7287a090a0b896479175cbd5d637266, type: 3}
+  - {fileID: 21300000, guid: eada9a594ec0af4438349454e065d478, type: 3}
+  - {fileID: 21300000, guid: 5600c3891bf5d0142899b8ddce380986, type: 3}
+  - {fileID: 21300000, guid: 960bf17ac19718042a9045038ca08364, type: 3}
+  - {fileID: 21300000, guid: b4c9ee7a523bf604d8941fb698fae876, type: 3}
+  - {fileID: 21300000, guid: 69ef29aab664a8c48997c6fe5113c23d, type: 3}
+  - {fileID: 21300000, guid: e109bcca397aa0941b4ae37216987eb1, type: 3}
+  - {fileID: 21300000, guid: f84c34bc58b675648abd3d0fb887965a, type: 3}
+  - {fileID: 21300000, guid: 58af845d3f1e9c24c97e7fda90f15f93, type: 3}
+  - {fileID: 21300000, guid: 35ff8a6de91d36b4d97f56905d5a80f8, type: 3}
+  - {fileID: 21300000, guid: 3df7f57e87a4ea74fbd1891eebe6987b, type: 3}
+  - {fileID: 21300000, guid: 559d53ae5b0ca404583057f2b9cb7e93, type: 3}
+  - {fileID: 21300000, guid: e5e952bf1aa32e14eb117cdbd0a3dfdd, type: 3}
+  - {fileID: 21300000, guid: 6fdc15cfd20a2cc46a1c89d35ec3fb2f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - icon_videoReward
+  - T_Heart
+  - T_PlusIcon
+  - T_Star
+  - icon_notification
+  - T_HouseiCON
+  - T_BookIcon
+  - ToggleOff
+  - T_LockIcon
+  - T_MenuBarButton
+  - T_Settings
+  - BackgroundPopup
+  - T_BlueButton
+  - T_Pill
+  - SquareBlueButton
+  - T_PlusButton
+  - T_LowerHomeBar
+  - T_Coin
+  - icon_music
+  - button_arrow
+  - btn_BaseButton
+  - icon_language
+  - icon_vibration
+  - T_BasketIcon
+  - ContentPopup
+  - ToggleOn
+  - icon_Home
+  - crown
+  - T_HighlightBlueBackground
+  - icon_sound
+  - btn_CloseButton
+  m_RenderDataMap: {}
+  m_Tag: ATLAS_HomeScreen
+  m_IsVariant: 0
